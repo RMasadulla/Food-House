@@ -349,6 +349,7 @@ z-index: 9999;
 
 @media screen and (max-width: 574px) {
     .logo-area {margin-left: 1rem}
+    .searchIcon {display: none}
     .herobody{width: 90%; top: 30%; left: 5%; right: 0;}
     .sellerTitleText{font-size: 3rem}
     .sellerSub2Left img{width: 150px; height: 150px;}
